@@ -1,2 +1,5 @@
-# talks
-selected public talks
+# Selected talks
+
+If both pptx and pdf versions exist, it's because pptx probably has some animation. 
+
+
