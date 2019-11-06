@@ -5,4 +5,4 @@ For a short list of selected talks see this page: https://aliatiia.github.io/tal
 Note: If both pptx and pdf versions exist, it's because pptx probably has some animation. 
 
 
-(TODO: upload the remaining)
+(TODO: upload seminar and project talks)
