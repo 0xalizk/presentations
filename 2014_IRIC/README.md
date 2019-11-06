@@ -1,1 +1,1 @@
-### Download **PPTX** (dynamic animations) or PDF (static)
+### Download **PPTX** (dynamic animations, recommended) or PDF (static)
