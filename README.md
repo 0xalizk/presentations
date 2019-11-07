@@ -1,8 +1,8 @@
 # Talks and presentations 
 
-For a short list of selected talks see this page: https://aliatiia.github.io/talks/
+- <a href="https://aliatiia.github.io/talks/" target="_blank">Selected Talks</a>
 
-Note: If both pptx and pdf versions exist, it's because pptx probably has some animation. 
+- [Others](/Others)
 
 
 (TODO: upload seminar and project talks)
