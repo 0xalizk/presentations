@@ -1,8 +1,8 @@
 # Talks and presentations 
 
-- <a href="https://aliatiia.github.io/talks/" target="_blank">Selected Talks</a>
+- <a href="https://aliatiia.github.io/talks/" target="_blank">Selected invited talks</a>
 
 - [Others](/Others)
 
 
-(TODO: upload seminar and project talks)
+(TODO: upload Others)
