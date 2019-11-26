@@ -1,8 +1,8 @@
-# Talks and presentations 
-
-- <a href="https://aliatiia.github.io/talks/" target="_blank">Selected Talks</a>
-
-- [Others](/Others)
+# Other Talks and presentations 
 
 
-(TODO: upload seminar and project talks)
+- [Please follow this link](https://drive.google.com/drive/folders/1fulyTKgWdXjOalewVDzy3dGxM1OnKQb_?usp=sharing)
+
+(TODO: md files with iframes here)
+
+
